@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\teoma\\Desktop\\SDD\\semZamfi\\S3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9AEFA5A-51DD-447D-B542-C19605F8A152}|S3\\S3.vcxproj|C:\\Users\\teoma\\Desktop\\SDD\\semZamfi\\S3\\S3\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9AEFA5A-51DD-447D-B542-C19605F8A152}|S3\\S3.vcxproj|solutionrelative:S3\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\teoma\\Desktop\\SDD\\semZamfi\\S3\\S3\\Source.c",
+              "RelativeDocumentMoniker": "S3\\Source.c",
+              "ToolTip": "C:\\Users\\teoma\\Desktop\\SDD\\semZamfi\\S3\\S3\\Source.c",
+              "RelativeToolTip": "S3\\Source.c",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-05T09:55:35.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

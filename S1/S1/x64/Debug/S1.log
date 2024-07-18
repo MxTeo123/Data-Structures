@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\teoma\Desktop\SDD\semZamfi\S1\S1\Source.c(32,18): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\teoma\Desktop\SDD\semZamfi\S1\S1\Source.c(33,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\teoma\Desktop\SDD\semZamfi\S1\S1\Source.c(63,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  S1.vcxproj -> C:\Users\teoma\Desktop\SDD\semZamfi\S1\x64\Debug\S1.exe

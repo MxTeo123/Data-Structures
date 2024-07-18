@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\teoma\Desktop\SDD\semZamfi\S4\S4\Source.c(153,16): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\teoma\Desktop\SDD\semZamfi\S4\S4\Source.c(189,21): warning C4047: '<': 'int' differs in levels of indirection from 'int *'
+C:\Users\teoma\Desktop\SDD\semZamfi\S4\S4\Source.c(198,1): warning C4715: 'cautaAeroport': not all control paths return a value
+  S4.vcxproj -> C:\Users\teoma\Desktop\SDD\semZamfi\S4\x64\Debug\S4.exe

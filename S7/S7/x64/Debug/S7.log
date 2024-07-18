@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\teoma\Desktop\SDD\semZamfi\S7\S7\Source.c(47,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\teoma\Desktop\SDD\semZamfi\S7\S7\Source.c(113,2): warning C4013: 'inserareGalerieInTabela' undefined; assuming extern returning int
+Source.obj : error LNK2019: unresolved external symbol inserareGalerieInTabela referenced in function main
+C:\Users\teoma\Desktop\SDD\semZamfi\S7\x64\Debug\S7.exe : fatal error LNK1120: 1 unresolved externals

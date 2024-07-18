@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\teoma\Desktop\SDD\semZamfi\S`10\S`10\Source.c(58,14): warning C4477: 'fscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'float *'
+C:\Users\teoma\Desktop\SDD\semZamfi\S`10\S`10\Source.c(76,10): warning C4133: 'function': incompatible types - from 'char [3]' to 'FILE *const '
+C:\Users\teoma\Desktop\SDD\semZamfi\S`10\S`10\Source.c(76,16): warning C4133: 'function': incompatible types - from 'int *' to 'const char *const '
+C:\Users\teoma\Desktop\SDD\semZamfi\S`10\S`10\Source.c(129,1): warning C4715: 'calculeazaMedie': not all control paths return a value
+  S`10.vcxproj -> C:\Users\teoma\Desktop\SDD\semZamfi\S`10\x64\Debug\S`10.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\teoma\\Desktop\\SDD\\semZamfi\\S2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59FB5075-7AEF-439E-8224-20C58D138ED6}|S2\\S2.vcxproj|C:\\Users\\teoma\\Desktop\\SDD\\semZamfi\\S2\\S2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59FB5075-7AEF-439E-8224-20C58D138ED6}|S2\\S2.vcxproj|solutionrelative:S2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\teoma\\Desktop\\SDD\\semZamfi\\S2\\S2\\Source.c",
+              "RelativeDocumentMoniker": "S2\\Source.c",
+              "ToolTip": "C:\\Users\\teoma\\Desktop\\SDD\\semZamfi\\S2\\S2\\Source.c",
+              "RelativeToolTip": "S2\\Source.c",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAiwFIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-01T07:26:10.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

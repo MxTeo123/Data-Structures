@@ -1,0 +1,2 @@
+﻿  Source.c
+C:\Users\teoma\Desktop\SDD\semZamfi\S3\S3\Source.c(73,1): error C4700: uninitialized local variable 'aeroport' used
